@@ -1,0 +1,355 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    "\u82f1\u96c4"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    "\u521b\u751f\u7269"
+   ]
+  }
+ ], 
+ "d": {
+  "134274912": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    0
+   ]
+  }, 
+  "134241735": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    1
+   ]
+  }, 
+  "134219749": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    2
+   ]
+  }, 
+  "134240279": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    3
+   ]
+  }, 
+  "134222661": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    4
+   ]
+  }, 
+  "134275571": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    5
+   ]
+  }, 
+  "134265083": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    6
+   ]
+  }, 
+  "134240721": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    7
+   ]
+  }, 
+  "134272952": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    8
+   ]
+  }, 
+  "134240731": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    9
+   ]
+  }, 
+  "134242658": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    10
+   ]
+  }, 
+  "134269059": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    11
+   ]
+  }, 
+  "134279795": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    12
+   ]
+  }, 
+  "134230062": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    13
+   ]
+  }, 
+  "134218426": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    14
+   ]
+  }, 
+  "134279196": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    15
+   ]
+  }, 
+  "134242543": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    16
+   ]
+  }, 
+  "134257382": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    17
+   ]
+  }, 
+  "134220068": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    18
+   ]
+  }, 
+  "134224181": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    19
+   ]
+  }, 
+  "134238059": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    20
+   ]
+  }, 
+  "134265927": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    21
+   ]
+  }, 
+  "134253585": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    22
+   ]
+  }, 
+  "134250762": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    23
+   ]
+  }, 
+  "134228855": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    24
+   ]
+  }, 
+  "134228282": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    25
+   ]
+  }, 
+  "134226901": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    26
+   ]
+  }, 
+  "134280096": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    27
+   ]
+  }, 
+  "134233553": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    28
+   ]
+  }, 
+  "134259608": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    29
+   ]
+  }, 
+  "134224570": {
+   "__tuple__": true, 
+   "items": [
+    "1mYr0UAxEe+-VF6CgjZ-FI", 
+    30
+   ]
+  }, 
+  "134251627": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    0
+   ]
+  }, 
+  "134237985": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    1
+   ]
+  }, 
+  "134267619": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    2
+   ]
+  }, 
+  "134253276": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    3
+   ]
+  }, 
+  "134250322": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    4
+   ]
+  }, 
+  "134231984": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    5
+   ]
+  }, 
+  "134257738": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    6
+   ]
+  }, 
+  "134274826": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    7
+   ]
+  }, 
+  "134239167": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    8
+   ]
+  }, 
+  "134218577": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    9
+   ]
+  }, 
+  "134225875": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    10
+   ]
+  }, 
+  "134238061": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    11
+   ]
+  }, 
+  "134223306": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    12
+   ]
+  }, 
+  "134261711": {
+   "__tuple__": true, 
+   "items": [
+    "1qE5AEAxEe+ZtF6CgjZ-FD", 
+    13
+   ]
+  }, 
+  "201339863": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    2
+   ]
+  }
+ }
+}
